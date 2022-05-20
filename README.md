@@ -1,2 +1,2 @@
 # testing
-- [] What if I had a checkbox
+- [ ] What if I had a checkbox
